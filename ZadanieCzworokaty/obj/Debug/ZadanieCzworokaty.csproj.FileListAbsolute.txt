@@ -1,0 +1,15 @@
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\bin\Debug\ZadanieCzworokaty.exe.config
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\bin\Debug\ZadanieCzworokaty.exe
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\bin\Debug\ZadanieCzworokaty.pdb
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.csproj.AssemblyReference.cache
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\MainWindow.g.cs
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\App.g.cs
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty_MarkupCompile.cache
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty_MarkupCompile.lref
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\MainWindow.baml
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.g.resources
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.Properties.Resources.resources
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.csproj.GenerateResource.cache
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.exe
+C:\Users\Agnieszka\source\repos\ZadanieCzworokaty\ZadanieCzworokaty\obj\Debug\ZadanieCzworokaty.pdb
